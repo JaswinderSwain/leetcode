@@ -1,6 +1,5 @@
-380. Insert Delete GetRandom O(1)
+<h2><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16">380: Insert Delete GetRandom O(1)</a></h2><h3>Medium</h3>
 
-Medium
 
 Implement the RandomizedSet class:
 
